@@ -11,7 +11,7 @@ Pythonic Developer, Language Learner, Literature Lover, Couch Potato and Workaho
 
 
 - 💻 I’m currently undergraduate in Computer Science at São Paulo State University (UNESP), Brazil.
-- 🛰 I’m currently researching on Computer Vision and Digital Image Processing applied to Remote Sensing.
+- 🛰 I’m currently researching on Data Science and Digital Image Processing applied to Remote Sensing.
 - 🤓 Also currently learning how to flex README on the profile. (I know...everytime is "currently")
 - 🤸‍♂️ I love to meet new people!!!
 - 👽 Learning any tecnology that apears on my way...
