@@ -22,7 +22,7 @@ Pythonic Developer, Language Learner, Literature Lover, Couch Potato and Workaho
 - ⚡ Fun fact: Gimme Music and I will work 48hrs a day!
 - 📫 How to reach me: 👇👇👇
 ```
-(⚠Attention⚠: I like to annoy people with [![HitCount](http://hits.dwyl.com/deut-erium/deut-erium.svg)](http://hits.dwyl.com/deut-erium/deut-erium)🧙)
+(⚠Attention⚠: I like to annoy people with [![HitCount](https://counter6.stat.ovh/private/freecounterstat.php?c=6rd669zl48tctxfhwab5kjftq2cj1f84)](https://counter6.stat.ovh/private/freecounterstat.php?c=6rd669zl48tctxfhwab5kjftq2cj1f84)🧙)
 ---- 
 <h2 align="center">Github stats :bar_chart:</h2>
 
