@@ -22,7 +22,9 @@ Pythonic Developer, Language Learner, Literature Lover, Couch Potato and Workaho
 - ⚡ Fun fact: Gimme Music and I will work 48hrs a day!
 - 📫 How to reach me: 👇👇👇
 ```
-(⚠Attention⚠: I like to annoy people with [![HitCount](https://counter6.stat.ovh/private/freecounterstat.php?c=6rd669zl48tctxfhwab5kjftq2cj1f84)](https://counter6.stat.ovh/private/freecounterstat.php?c=6rd669zl48tctxfhwab5kjftq2cj1f84)🧙)
+(⚠Attention⚠: I like to annoy people with <div id="sfc6rd669zl48tctxfhwab5kjftq2cj1f84"></div>
+<script type="text/javascript" src="https://counter6.stat.ovh/private/counter.js?c=6rd669zl48tctxfhwab5kjftq2cj1f84&down=async" async></script>
+<br><a href="https://www.freecounterstat.com">visitors counter</a><noscript><a href="https://www.freecounterstat.com" title="visitors counter"><img src="https://counter6.stat.ovh/private/freecounterstat.php?c=6rd669zl48tctxfhwab5kjftq2cj1f84" border="0" title="visitors counter" alt="visitors counter"></a></noscript>🧙)
 ---- 
 <h2 align="center">Github stats :bar_chart:</h2>
 
