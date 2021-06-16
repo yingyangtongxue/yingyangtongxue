@@ -13,7 +13,7 @@ Pythonic Developer, Language Learner, Literature Lover, Couch Potato and Workaho
 - 💻 I’m currently undergraduate in Computer Science at São Paulo State University (UNESP), Brazil.
 - 🛰 I’m currently researching on Data Science and Digital Image Processing applied to Remote Sensing.
 - 🤓 Also currently learning how to flex README on the profile. (I know...everytime is "currently")
-- :man_technologist: I’m associated to the Brazilian Computer Society (SBC)
+- 💻 I’m associated to the Brazilian Computer Society (SBC)
 - 🛰 Individual Member of the International Society for Photogrammetry and Remote Sensing Student Consortium (ISPRS Student Consortium) 
 - 🛰 Individual Member of the International Society for Photogrammetry and Remote Sensing (ISPRS)
 - 🤸‍♂️ I love to meet new people!!!
