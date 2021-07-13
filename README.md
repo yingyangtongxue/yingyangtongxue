@@ -22,7 +22,7 @@ Pythonic Developer, Language Learner, Literature Lover, Couch Potato and Workaho
 - ⚡ Fun fact: Gimme Music and I will work 48hrs a day!
 - 📫 How to reach me: 👇👇👇
 ```
-(⚠Attention⚠: I like to annoy people with [![HitCount](https://error404.com.error)](https://error404.com.error)🧙)
+(⚠Attention⚠: I like to annoy people with [![Bugs](https://error404.com.error)](https://error404.com.error)🧙)
 ---- 
 <h2 align="center">Github stats :bar_chart:</h2>
 
