@@ -1,4 +1,4 @@
-### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hello World, I'm Daniel!  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
+### <img src="https://github.com/yingyangtongxue/yingyangtongxue/blob/main/Assets/Hi.gif" width="29px"> Hello World, I'm Daniel!  <img src="https://github.com/yingyangtongxue/yingyangtongxue/blob/main/Assets/Earth.gif" width="24px">
 ---- 
 
 ```Python
@@ -11,8 +11,9 @@ Pythonic Developer, Language Learner, Literature Lover, Couch Potato and Workaho
 
 
 - 💻 I’m currently undergraduate in Computer Science at São Paulo State University (UNESP), Brazil.
-- 🛰 I’m currently researching on Data Science and Digital Image Processing applied to Remote Sensing.
+- 🐉 I’m currently learning how to speak "四十四 十是十 十四是十四 四十是四十 十四不是四十 四十不是十四" to get my HSK 9(是的，我真的很喜欢学习中文）
 - 🤓 Also currently learning how to flex README on the profile. (I know...everytime is "currently")
+- 🛰 I've done research in Data Science and Digital Image Processing applied to Remote Sensing .
 - 💻 Associated to the Brazilian Computer Society (SBC)
 - 🛰 Individual Member of the International Society for Photogrammetry and Remote Sensing Student Consortium (ISPRS Student Consortium) 
 - 🛰 Individual Member of the International Society for Photogrammetry and Remote Sensing (ISPRS)
@@ -58,7 +59,7 @@ Pythonic Developer, Language Learner, Literature Lover, Couch Potato and Workaho
 
 ---- 
 
-### Contact me:<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">
+### Contact me:<img src="https://github.com/yingyangtongxue/yingyangtongxue/blob/main/Assets/Handshake.gif" height="32px">
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/daniel-nunes-monteiro-789094185)](https://www.linkedin.com/in/daniel-nunes-monteiro-789094185)
 [![Lattes Badge](https://img.shields.io/badge/Lattes-blue?link=http://lattes.cnpq.br/5712124977837346)](http://lattes.cnpq.br/5712124977837346)
