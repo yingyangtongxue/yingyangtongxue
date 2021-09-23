@@ -55,7 +55,6 @@ Pythonic Developer, Language Learner, Literature Lover, Couch Potato and Workaho
 * English 
 * Spanish (Español) 
 * Chinese (简体中文) 
-* Japanese (日本語)
 
 ---- 
 
