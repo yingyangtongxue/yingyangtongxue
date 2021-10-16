@@ -7,7 +7,7 @@ Physics⚛️, Musics🎶, Literature📚 and Languages📖.
 
 A person who is also Dev | Learner | A bit of Clown | Lover in a DEEP Life!!
 
-Pythonic Developer, Language Learner, Literature Lover, Couch Potato and Workaholic in the same time and much more...LOL
+Language Learner, Literature Lover, Couch Potato and Workaholic in the same time and much more...LOL
 
 
 - 💻 I’m currently undergraduate in Computer Science at São Paulo State University (UNESP), Brazil.
