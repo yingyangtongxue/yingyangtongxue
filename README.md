@@ -27,12 +27,10 @@ Language Learner, Literature Lover, Couch Potato and Workaholic in the same time
 ---- 
 <h2 align="center">Github stats :bar_chart:</h2>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=yingyangtongxue&count_private=true&show_icons=true&theme=chartreuse-dark" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yingyangtongxue&layout=compact&theme=chartreuse-dark&count_private=true" />
-</a>
+<p align="start">
+  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=yingyangtongxue&count_private=true&show_icons=true&theme=chartreuse-dark" />
+  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yingyangtongxue&layout=compact&theme=chartreuse-dark&count_private=true" />
+</p>
 
 ----
 
