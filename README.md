@@ -9,18 +9,17 @@ A person who is also Dev | Learner | A bit of Clown | Lover in a DEEP Life!!
 
 Language Learner, Literature Lover, Couch Potato and Workaholic in the same time and much more...LOL
 
-
-- 💻 I’m currently undergraduate in Computer Science at São Paulo State University (UNESP), Brazil.
-- 🐉 I’m currently learning how to speak "四十四 十是十 十四是十四 四十是四十 十四不是四十 四十不是十四" to get my HSK 9(是的，我真的很喜欢学习中文）
-- 🤓 Also currently learning how to flex README on the profile. (I know...everytime is "currently")
-- 🛰 I've done research in Data Science and Digital Image Processing applied to Remote Sensing .
-- 💻 Associated to the Brazilian Computer Society (SBC)
-- 🛰 Individual Member of the International Society for Photogrammetry and Remote Sensing Student Consortium (ISPRS Student Consortium) 
-- 🛰 Individual Member of the International Society for Photogrammetry and Remote Sensing (ISPRS)
-- 🤸‍♂️ I love to meet new people!!!
-- 👽 Learning any tecnology that apears on my way...
-- 💬 Ask me about any sort of motivation!
-- ⚡ Fun fact: Gimme Music and I will work 48hrs a day!
+- 🎓 Bachelor’s degree in Computer Science – São Paulo State University (UNESP), Brazil.  
+- 📚 Currently pursuing a Master’s degree in Computer Science (Computational Intelligence) – UNESP, Brazil.  
+- 🛰 Research experience in Data Science, Computer Vision and Digital Image Processing applied to Remote Sensing.  
+- 💻 Member of the Brazilian Computer Society (SBC).  
+- 🌍 Individual Member of the International Society for Photogrammetry and Remote Sensing (ISPRS) & ISPRS Student Consortium.  
+- 🐉 Currently learning how to say "四十四 十是十 十四是十四 四十是四十 十四不是四十 四十不是十四" on the way to HSK 9 (是的，我真的很喜欢学习中文).  
+- 🤓 Also currently learning how to flex README on the profile (yes… everything is "currently").  
+- 👽 Always exploring any technology that appears on my path...  
+- 🤸‍♂️ I love meeting new people and sharing knowledge!  
+- 💬 Ask me about motivation, research, or life hacks.  
+- ⚡ Fun fact: Gimme Music and I’ll work 48h a day!  
 - 📫 How to reach me: 👇👇👇
 ```
 (⚠Attention⚠: I like to annoy people with [![Bugs](https://error404.com.error)](https://error404.com.error)🧙)
