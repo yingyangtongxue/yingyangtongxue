@@ -57,7 +57,7 @@ Language Learner, Literature Lover, Couch Potato and Workaholic in the same time
 
 ### Contact me:<img src="https://github.com/yingyangtongxue/yingyangtongxue/blob/main/Assets/Handshake.gif" height="32px">
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/daniel-nunes-monteiro-789094185)](https://www.linkedin.com/in/daniel-nunes-monteiro-789094185)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/daniel-nunes-monteiro-789094185)](https://www.linkedin.com/in/danielkf)
 [![Lattes Badge](https://img.shields.io/badge/Lattes-blue?link=http://lattes.cnpq.br/5712124977837346)](http://lattes.cnpq.br/5712124977837346)
 <a href = "mailto: daniel.n.monteiro@unesp.com"><img src="https://img.shields.io/badge/Gmail-red?style=flat-square&logo=Gmail&logoColor=white" target="_blank"></a>
 
